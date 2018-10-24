@@ -8,9 +8,10 @@
 </head>
 <body>
 <h1>"WebContent/test1.jsp"</h1>
+<<<<<<< HEAD
 <h3>client</h3>
+<h3>server</h3>
+</body>
 
-
-</body >
 </html>
 
